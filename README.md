@@ -2,13 +2,17 @@
 
 Senior Software Developer & Associate Professor based in Madrid, Spain. I’m an engineer at heart: I craft frontend and mobile experiences, architect resilient backends, tinker with IoT, and teach the next wave of developers.
 
-![Neon banner](https://media.licdn.com/dms/image/v2/D4D03AQEFS8YjuVRt6w/profile-displayphoto-shrink_400_400/B4DZYBm3yrH4Ag-/0/1743783689981?e=1772668800&v=beta&t=x1RqBUSevpYPP3862LDM9iplmeqE90Mx3odYlNFqmgg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cferndp/"><img src="https://img.shields.io/badge/LinkedIn-cferndp-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" /></a>
+  <a href="mailto:hello@cferndp.com"><img src="https://img.shields.io/badge/Email-hello@cferndp.com-39FF14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
+  <img src="https://img.shields.io/badge/Location-Madrid,%20Spain-FF2D95?style=for-the-badge&logo=google-maps" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Freelance-Available-00E5FF?style=for-the-badge" alt="Freelance badge" />
+</p>
 
 ## Snapshot
 
 |  |  |
 | --- | --- |
-| **Location** | Madrid, Spain |
 | **Experience** | 13+ years building software across web, mobile, backend, IoT |
 | **Currently** | Senior Frontend Dev @ **Alira Health** · Associate Professor @ **Comillas University** |
 | **Freelance** | Available for selected projects (React / React Native / TypeScript focus) |
@@ -22,7 +26,7 @@ I thrive on delivering high-quality solutions and constantly leveling up. Whethe
 
 - 🧗 Climbing · 🎪 Aerial silks · 🥋 Martial arts · ✈️ Travel
 - Code quality, performance tuning, and meaningful product strategy
-- Guiding teams through healthy engineering practices (Scrum, TDD)
+- Guiding dev teams through healthy engineering practices (Scrum, TDD)
 
 ## Experience Highlights
 
@@ -67,6 +71,14 @@ I thrive on delivering high-quality solutions and constantly leveling up. Whethe
 
 **Methodologies**
 - Scrum, Agile coaching, microservices, team leadership & mentoring
+
+## GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CFerndp&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CFerndp&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CFerndp&theme=react-dark&hide_border=true" alt="Activity graph" />
+</p>
 
 ## Let’s Connect
 
